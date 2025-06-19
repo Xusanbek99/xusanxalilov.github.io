@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header, nav, main, footer {
+    padding: 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #007bff;
+}
